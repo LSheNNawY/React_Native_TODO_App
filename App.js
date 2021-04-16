@@ -59,6 +59,7 @@ export default function App() {
               );
             }
           }}
+          keyExtractor={item => item.id.toString()}
         />
       </View>
     </View>

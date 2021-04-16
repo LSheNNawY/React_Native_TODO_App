@@ -61,11 +61,10 @@ const styles = StyleSheet.create({
   text: {
     paddingHorizontal: 35,
     paddingVertical: 17,
-    color: 'balck',
+    color: '#000',
     backgroundColor: '#FFF',
     borderRadius: 27,
     marginHorizontal: 2,
-    cursor: 'pointer',
     fontWeight: 'bold',
   },
   active: {

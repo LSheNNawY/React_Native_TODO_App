@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   textDone: {
     color: '#e76048',
     fontSize: 20,
-    textDecoration: 'line-through',
+    textDecorationLine: 'line-through',
     marginHorizontal: 5,
   },
   textActive: {

@@ -46,7 +46,6 @@ export default function Form({ setTodoes, todoes }) {
 const styles = {
   input: {
     padding: 15,
-    outline: 'none',
     backgroundColor: '#FFF',
     borderRadius: 35,
     fontSize: 18,
